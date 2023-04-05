@@ -1,7 +1,7 @@
 ---
 title: "Not Just Classification: Recognizing Implicit Discourse Relation on Joint Modeling of Classification and Generation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2021-EMNLP
 excerpt: 'Implicit discourse relation recognition (IDRR) is a critical task in discourse analysis. Previous studies only regard it as a classification task and lack an in-depth understanding of the semantics of different relations. Therefore, we first view IDRR as a generation task and further propose a method joint modeling of the classification and generation. Specifically, we propose a joint model, CG-T5, to recognize the relation label and generate the target sentence containing the meaning of relations simultaneously. Furthermore, we design three target sentence forms, including the question form, for the generation model to incorporate prior knowledge. To address the issue that large discourse units are hardly embedded into the target sentence, we also propose a target sentence construction mechanism that automatically extracts core sentences from those large discourse units. Experimental results both on Chinese MCDTB and English PDTB datasets show that our model CG-T5 achieves the best performance against several state-of-the-art systems.'
 date: 2021-10-01
 venue: 'EMNLP'
