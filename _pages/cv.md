@@ -45,7 +45,7 @@ Publications
   
 Competition
 ======
- * CAIL (Challenge of AI in Law)
+ * CAIL 2022 (Challenge of AI in Law)
     * Summarization track (TOP 1, First Prize)
     * The task aims to generate a summary of law-related public opinion news with an average length of 1600 words.
     * As the leader of the team (collaborate with 1 postgraduate student).
@@ -53,11 +53,11 @@ Competition
   
 Teaching
 ======
-  * Operating System (National Excellent Course, Online Course) 
+  * Operating System (National Excellent Course, Online Course) (2019)
       * Teaching Assistant 
       * Tutored undergraduate students' assignments and answered their questions. 
    
-  * Python Programming (Lab) 
+  * Python Programming (Lab) (2017)
       * Teaching Assistant 
       * Assisted in solving the problems students met in the lab and tutored the students' assignments. 
   
