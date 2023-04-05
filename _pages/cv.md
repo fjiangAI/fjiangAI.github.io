@@ -31,11 +31,11 @@ Research Project
 * Research on discourse structure analysis driven by micro and macro nuclearity (NSFC)
 * Fifth participant 
 * Duties included
-    * Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods.
-    * As the main member in constructing a representation schema of Chinese macro discourse structure.
-    * As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB).
-    * Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure.
-    * Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations.
+      * Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods.
+      * As the main member in constructing a representation schema of Chinese macro discourse structure.
+      * As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB).
+      * Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure.
+      * Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations.
 
 Publications
 ======
