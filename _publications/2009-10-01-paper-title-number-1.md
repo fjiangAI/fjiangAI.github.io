@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "MCDTB: A Macro-level Chinese Discourse TreeBank"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In view of the differences between the annotations of micro and macro discourse rela-tionships, this paper describes the relevant experiments on the construction of the Macro Chinese Discourse Treebank (MCDTB), a higher-level Chinese discourse corpus. Fol-lowing RST (Rhetorical Structure Theory), we annotate the macro discourse information, including discourse structure, nuclearity and relationship, and the additional discourse information, including topic sentences, lead and abstract, to make the macro discourse annotation more objective and accurate. Finally, we annotated 720 articles with a Kappa value greater than 0.6. Preliminary experiments on this corpus verify the computability of MCDTB.'
+date: 2023-02-01
+venue: 'COLING'
+paperurl: 'https://aclanthology.org/C18-1296.pdf'
+citation: 'Feng Jiang, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In view of the differences between the annotations of micro and macro discourse rela-tionships, this paper describes the relevant experiments on the construction of the Macro Chinese Discourse Treebank (MCDTB), a higher-level Chinese discourse corpus. Fol-lowing RST (Rhetorical Structure Theory), we annotate the macro discourse information, including discourse structure, nuclearity and relationship, and the additional discourse information, including topic sentences, lead and abstract, to make the macro discourse annotation more objective and accurate. Finally, we annotated 720 articles with a Kappa value greater than 0.6. Preliminary experiments on this corpus verify the computability of MCDTB.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: **Feng Jiang**, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504
