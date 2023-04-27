@@ -21,13 +21,9 @@ Work experience
 * Summer 2018: Algorithm Engineer (Intern)
   * Microsoft 
   * Duties included
-  
-  (1)Responsible for the research on the more natural conversation experience with dialogue act.
-  
-  (2)As a key member in building a dialogue process description and control prototype system.
-  
-  (3)The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory.
-  
+  (1) Responsible for the research on the more natural conversation experience with dialogue act.
+  (2) As a key member in building a dialogue process description and control prototype system.
+  (3) The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory.
   * Supervisor: Yue Pan
   
 Research Project
@@ -35,11 +31,11 @@ Research Project
 * Research on discourse structure analysis driven by micro and macro nuclearity (NSFC)
 * Fifth participant 
 * Duties included
-      * Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods.
-      * As the main member in constructing a representation schema of Chinese macro discourse structure.
-      * As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB).
-      * Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure.
-      * Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations.
+      (1) Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods.
+      (2) As the main member in constructing a representation schema of Chinese macro discourse structure.
+      (3) As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB).
+      (3) Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure.
+      (4) Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations.
 
 Publications
 ======
@@ -49,7 +45,7 @@ Publications
   
 Competition
 ======
- * CAIL 2022 (Challenge of AI in Law)
+ * [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022) (Challenge of AI in Law)
     * Summarization track (TOP 1, First Prize)
     * The task aims to generate a summary of law-related public opinion news with an average length of 1600 words.
     * As the leader of the team (collaborate with 1 postgraduate student).
@@ -67,5 +63,6 @@ Teaching
   
 Service and leadership
 ======
+* As the Virtual Infrastructure Chair in EMNLP 2023.
 * As a PC member in ACL2019/2020, AAAI2021/2022/2023, EMNLP2020/2021, COLING2022. 
 * As a member of the China Computer Federation (CCF). 
