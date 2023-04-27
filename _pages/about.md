@@ -27,9 +27,9 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 **Feng Jiang**, Xiaomin Chu, Peifeng Li, Fang Kong, Qiaoming Zhu: Chinese Paragraph-level Discourse Parsing with Global Backward and Local Reverse Reading. In Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020): 5749-5759. (**CCF-B**)
 
-**Feng Jiang**, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504.
+**Feng Jiang**, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504. (**CCF-B**)
 
-Yaqiong He, **Feng Jiang**, Xiaomin Chu, Peifeng Li: Automated Chinese Essay Scoring from Multiple Traits. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022): 3007-3016.
+Yaqiong He, **Feng Jiang**, Xiaomin Chu, Peifeng Li: Automated Chinese Essay Scoring from Multiple Traits. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022): 3007-3016. (**CCF-B**)
 
 Xiaomin Chu, **Feng Jiang**, Yi Zhou, Guodong Zhou, Qiaoming Zhu: Joint Modeling of Structure Identification and Nuclearity Recognition in Macro Chinese Discourse Treebank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 536-546. (**CCF-B**) (Best Paper Honorable Mention).
 
