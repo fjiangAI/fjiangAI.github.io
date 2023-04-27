@@ -20,16 +20,20 @@ Work experience
 ======
 * Summer 2018: Algorithm Engineer (Intern)
   * Microsoft 
-  * Duties included
-  (1) Responsible for the research on the more natural conversation experience with dialogue act;(2) As a key member in building a dialogue process description and control prototype system;(3) The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory.
+  * Responsible for the research on the more natural conversation experience with dialogue act
+  * As a key member in building a dialogue process description and control prototype system
+  * The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory
   * Supervisor: Yue Pan
   
 Research Project
 ======
 * Research on discourse structure analysis driven by micro and macro nuclearity (NSFC)
 * Fifth participant 
-* Duties included
-      (1) Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods; (2) As the main member in constructing a representation schema of Chinese macro discourse structure; (3) As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB); (4) Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure; (5) Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations.
+* Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods
+* As the main member in constructing a representation schema of Chinese macro discourse structure
+* As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB)
+* Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure
+* Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations
 
 Publications
 ======
