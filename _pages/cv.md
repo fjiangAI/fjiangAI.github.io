@@ -21,9 +21,13 @@ Work experience
 * Summer 2018: Algorithm Engineer (Intern)
   * Microsoft 
   * Duties included
-        * Responsible for the research on the more natural conversation experience with dialogue act.
-        * As a key member in building a dialogue process description and control prototype system.
-        * The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory.
+  
+  (1)Responsible for the research on the more natural conversation experience with dialogue act.
+  
+  (2)As a key member in building a dialogue process description and control prototype system.
+  
+  (3)The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory.
+  
   * Supervisor: Yue Pan
   
 Research Project
