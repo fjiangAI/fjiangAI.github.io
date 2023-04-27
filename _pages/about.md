@@ -15,3 +15,8 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
+**Quick View of Me**
+
+[**News**]
+
+[04/16/23] We released our across languages LLM: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) and its [technique report](https://arxiv.org/abs/2304.10453).
