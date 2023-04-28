@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong]([https://www.pku.edu.cn/](https://www.cuhk.edu.cn/en)). My research interest includes Artificial Intelligence, Natural Language Processing, Discourse Parsing, Dialogue System and Summarization.
+I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interest includes Artificial Intelligence, Natural Language Processing, Discourse Parsing, Dialogue System and Summarization.
 
 I am very fortunate to work with [Prof. Haizhou Li](https://colips.org/~eleliha/).
 You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
