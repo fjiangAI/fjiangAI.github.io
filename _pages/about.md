@@ -17,9 +17,13 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
+[06/09/23] We got the Third Prize in [NLPCC2023 Shared Task 1:  Chinese Grammatical Error Correction](https://github.com/masr2000/NaCGEC).
+
 [05/26/23] We released our Medical LLM: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) and its [technique report](https://arxiv.org/abs/2305.15075).
 
 [04/16/23] We released our across languages LLM: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) and its [technique report](https://arxiv.org/abs/2304.10453).
+
+[01/13/23] We got the First Prize in the summarization track of [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022).
 
 [📚 **Representative Work**]
 
