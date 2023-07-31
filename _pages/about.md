@@ -18,7 +18,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
-[06/26/23] We released our [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT) and its [technique report](https://arxiv.org/abs/2307.13923)
+[06/26/23] We released our [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT) and its [technique report](https://arxiv.org/abs/2307.13923).
 
 [06/09/23] We build the GrammarGPT and got the Third Prize in [NLPCC2023 Shared Task 1:  Chinese Grammatical Error Correction](https://github.com/masr2000/NaCGEC).
 
