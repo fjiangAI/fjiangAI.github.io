@@ -18,6 +18,10 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
+[08/23/23] We released our [ReaLM](https://github.com/FreedomIntelligence/ReaLM), a user-simulator-based LLM, and its [technique report](https://arxiv.org/abs/2308.11534v1).
+
+[07/24/23] We released our [HTTP](https://github.com/Clement1290/ChatGPT-Detection-PR-HPPT), a ChatGPT-generated text detector checking the ChatGPT-involved degree, and its [technique report](https://arxiv.org/abs/2307.11380).
+
 [06/26/23] We released our [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT) and its [technique report](https://arxiv.org/abs/2307.13923).
 
 [06/09/23] We build the GrammarGPT and got the Third Prize in [NLPCC2023 Shared Task 1:  Chinese Grammatical Error Correction](https://github.com/masr2000/NaCGEC).
