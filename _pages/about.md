@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interest includes Artificial Intelligence, Natural Language Processing, Discourse Parsing, Dialogue System and Summarization.
+I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interest includes Artificial Intelligence, Natural Language Processing, Large Language Model, Discourse Parsing, Dialogue System and Summarization.
 
 I am very fortunate to work with [Prof. Haizhou Li](https://colips.org/~eleliha/). I also collaborate with Prof. Benyou Wang to research LLMs.
 
@@ -18,9 +18,13 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
+[10/06/23] We have three papers accepted as the main conference or Findings of EMNLP.
+
 [08/23/23] We released our [ReaLM](https://github.com/FreedomIntelligence/ReaLM), a user-simulator-based LLM, and its [technique report](https://arxiv.org/abs/2308.11534v1).
 
-[07/24/23] We released our [HTTP](https://github.com/Clement1290/ChatGPT-Detection-PR-HPPT), a ChatGPT-generated text detector checking the ChatGPT-involved degree, and its [technique report](https://arxiv.org/abs/2307.11380).
+[08/21/23] We released our [CMB](https://github.com/FreedomIntelligence/CMB), a Comprehensive multi-level assessment for medical knowledge, and its [technique report](https://arxiv.org/abs/2308.08833).
+
+[07/24/23] We released our [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), a ChatGPT-generated text detector checking the ChatGPT-involved degree, and its [technique report](https://arxiv.org/abs/2307.11380).
 
 [06/26/23] We released our [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT) and its [technique report](https://arxiv.org/abs/2307.13923).
 
@@ -33,6 +37,8 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 [01/13/23] We got the First Prize in the summarization track of [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022).
 
 [📚 **Representative Work**]
+
+**蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194.
 
 **Feng Jiang**, Yaxin Fan, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Fang Kong: Hierarchical Macro Discourse Parsing Based on Topic Segmentation. In Proceedings of the Conference on Artificial Intelligence (AAAI 2021): 13152-13160. (**CCF-A**)
 
