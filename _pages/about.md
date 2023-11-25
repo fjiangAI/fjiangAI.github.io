@@ -18,9 +18,9 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
-[11/16/23] We released our upgrade of HuatuoGPT to [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), and its [technique report](https://arxiv.org/abs/2311.09774)
+[11/16/23] We released our upgrade of HuatuoGPT to [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), and its [technique report](https://arxiv.org/abs/2311.09774).
 
-[11/16/23] We released our [SDAK](https://github.com/FreedomIntelligence/SDAK), a self-diagnostic atomic knowledge benchmark for popular Chinese medical foundation models and its [technique report](https://arxiv.org/abs/2310.11722)
+[11/16/23] We released our [SDAK](https://github.com/FreedomIntelligence/SDAK), a self-diagnostic atomic knowledge benchmark for popular Chinese medical foundation models, and its [technique report](https://arxiv.org/abs/2310.11722).
 
 [10/06/23] We have three papers accepted as the main conference or Findings of EMNLP.
 
