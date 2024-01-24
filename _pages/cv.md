@@ -68,6 +68,7 @@ Teaching
   
 Service and leadership
 ======
+* As the Area Chair in NAACL 2024 and ACL 2024.
 * As the Virtual Infrastructure Chair and Area Chair in EMNLP 2023.
 * As a PC member in ACL2019/2020/2023, AAAI2021/2022/2023/2024, EMNLP2020/2021, COLING2022. 
 * As a member of the China Computer Federation (CCF). 
