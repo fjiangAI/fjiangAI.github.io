@@ -18,7 +18,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
-[01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), and its [technique report](https://arxiv.org/abs/2401.09150).
+[01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), A open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
 
 [11/16/23] We released our upgrade of HuatuoGPT to [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), and its [technique report](https://arxiv.org/abs/2311.09774).
 
