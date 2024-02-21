@@ -17,6 +17,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 [Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
 [✨ **Latest News**]
+[02/20/24] We have two papers accepted as the main conference of COLING.
 
 [01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), A open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
 
