@@ -18,6 +18,10 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
+[03/26/24] We released our [CPTS](https://github.com/fjiangAI/CPTS), a Chinese paragraph-level topic structure corpus and its [technique report](https://arxiv.org/pdf/2305.08391).
+
+[03/05/24] We made [an empirical study for ChatGPT in discourse parsing of dialogue](https://github.com/yxfanSuda/GPTforDDA) and released its [technique report](https://arxiv.org/pdf/2305.08391).
+
 [02/20/24] We have two papers accepted as the main conference of COLING.
 
 [01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), A open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
@@ -45,6 +49,9 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 [01/13/23] We got the First Prize in the summarization track of [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022).
 
 [📚 **Representative Work**]
+
+**Hongbo Zhang\***, **Junying Chen\***, **Feng Jiang\***, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
+HuatuoGPT, Towards Taming Language Model to Be a Doctor. EMNLP (Findings) 2023: 10859-10885
 
 **蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194.
 
