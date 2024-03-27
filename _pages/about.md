@@ -20,7 +20,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [03/26/24] We released our [CPTS](https://github.com/fjiangAI/CPTS), a Chinese paragraph-level topic structure corpus and its [technique report](https://arxiv.org/pdf/2305.08391).
 
-[03/05/24] We made [an empirical study for ChatGPT in discourse parsing of dialogue](https://github.com/yxfanSuda/GPTforDDA) and released its [technique report](https://arxiv.org/pdf/2305.08391).
+[03/05/24] We made [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA) and released its [technique report](https://arxiv.org/pdf/2305.08391).
 
 [02/20/24] We have two papers accepted as the main conference of COLING.
 
