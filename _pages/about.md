@@ -12,6 +12,9 @@ I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.c
 
 I am very fortunate to work with [Prof. Haizhou Li](https://colips.org/~eleliha/). I also collaborate with [Prof. Benyou Wang](https://wabyking.github.io/old.html) to research LLMs.
 
+I serve as an Area Chair (Discourse and Pragmatics) in EMNLP 2023 and Area Chair (Resources and Evaluation) in NAACL 2024 and ACL 2024. 
+I'm also a PC member in AAAI 2024, NuraIPS 2024, and COLM 2024 and the reviewer for the Journal of IEEE Transactions on Audio, Speech, and Language Processing and the International Journal of Social Robotics.
+
 You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
@@ -20,9 +23,11 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [03/26/24] We released our [CPTS](https://github.com/fjiangAI/CPTS), a Chinese paragraph-level topic structure corpus and its [technique report](https://arxiv.org/pdf/2305.14790).
 
+[03/15/24] 🎉🎉🎉 We have one paper accepted as the main conference of NAACL.
+
 [03/05/24] We made [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA) and released its [technique report](https://arxiv.org/pdf/2305.08391).
 
-[02/20/24] We have two papers accepted as the main conference of COLING.
+[02/20/24] 🎉🎉🎉 We have two papers accepted as the main conference of COLING.
 
 [01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), A open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
 
@@ -30,7 +35,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [11/16/23] We released our [SDAK](https://github.com/FreedomIntelligence/SDAK), a self-diagnostic atomic knowledge benchmark for popular Chinese medical foundation models, and its [technique report](https://arxiv.org/abs/2310.11722).
 
-[10/06/23] We have three papers accepted as the main conference or Findings of EMNLP.
+[10/06/23] 🎉🎉🎉 We have three papers accepted as the main conference or Findings of EMNLP.
 
 [08/23/23] We released our [ReaLM](https://github.com/FreedomIntelligence/ReaLM), a user-simulator-based LLM, and its [technique report](https://arxiv.org/abs/2308.11534v1).
 
@@ -40,13 +45,13 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [06/26/23] We released our [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT) and its [technique report](https://arxiv.org/abs/2307.13923).
 
-[06/09/23] We built the GrammarGPT and got the Third Prize in [NLPCC2023 Shared Task 1:  Chinese Grammatical Error Correction](https://github.com/masr2000/NaCGEC).
+[06/09/23] 🎉🎉🎉 We built the GrammarGPT and got the Third Prize in [NLPCC2023 Shared Task 1:  Chinese Grammatical Error Correction](https://github.com/masr2000/NaCGEC).
 
 [05/26/23] We released our Medical LLM: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) and its [technique report](https://arxiv.org/abs/2305.15075).
 
 [04/16/23] We released our across languages LLM: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) and its [technique report](https://arxiv.org/abs/2304.10453).
 
-[01/13/23] We got the First Prize in the summarization track of [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022).
+[01/13/23] 🎉🎉🎉 We got the First Prize in the summarization track of [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022).
 
 [📚 **Representative Work**]
 
