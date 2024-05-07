@@ -13,7 +13,7 @@ I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.c
 I am very fortunate to work with [Prof. Haizhou Li](https://colips.org/~eleliha/). I also collaborate with [Prof. Benyou Wang](https://wabyking.github.io/old.html) to research LLMs.
 
 I serve as a Senior Action Editor (SAE) in ACL Rolling Review, the Area Chair (Discourse and Pragmatics) in EMNLP 2023, and the Area Chair (Resources and Evaluation) in NAACL 2024 and ACL 2024. 
-I'm also a PC member in AAAI 2024, NeurIPS 2023, COLM 2024, and ECAI 2024 and the reviewer for the Journal of IEEE Transactions on Audio, Speech, and Language Processing and the International Journal of Social Robotics.
+I'm also a PC member in AAAI 2024, NeurIPS 2024, COLM 2024, and ECAI 2024 and the reviewer for the Journal of IEEE Transactions on Audio, Speech, and Language Processing and the International Journal of Social Robotics.
 
 You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
