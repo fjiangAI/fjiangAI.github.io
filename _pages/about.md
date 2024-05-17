@@ -21,6 +21,8 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [✨ **Latest News**]
 
+[05/16/24] 🎉🎉🎉 We have one paper accepted as the main conference of ACL.
+
 [03/26/24] We released our [CPTS](https://github.com/fjiangAI/CPTS), a Chinese paragraph-level topic structure corpus and its [technique report](https://arxiv.org/pdf/2305.14790).
 
 [03/15/24] 🎉🎉🎉 We have one paper accepted as the main conference of NAACL.
