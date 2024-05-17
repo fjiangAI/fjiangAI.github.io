@@ -57,12 +57,13 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [📚 **Representative Work**]
 
-**Hongbo Zhang\***, **Junying Chen\***, **Feng Jiang\***, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
-HuatuoGPT, Towards Taming Language Model to Be a Doctor. EMNLP (Findings) 2023: 10859-10885
+Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang#**, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024. (Accepted). (**CCF-A**)
 
-**蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194.
+**蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194. 
 
 **Feng Jiang**, Yaxin Fan, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Fang Kong: Hierarchical Macro Discourse Parsing Based on Topic Segmentation. In Proceedings of the Conference on Artificial Intelligence (AAAI 2021): 13152-13160. (**CCF-A**)
+
+**Feng Jiang**, Weihao Liu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Haizhou Li: Advancing Topic Segmentation and Outline Generation in Chinese Texts: The Paragraph-level Topic Representation, Corpus, and Benchmark. COLING 2024. (Accepted). (**CCF-B**)
 
 **Feng Jiang**, Yaxin Fan, Xiaomin Chu, Peifeng Li, Qiaoming Zhu: Not Just Classification: Recognizing Implicit Discourse Relation on Joint Modeling of Classification and Generation. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021): 2418-2431. (**CCF-B**)
 
@@ -70,10 +71,19 @@ HuatuoGPT, Towards Taming Language Model to Be a Doctor. EMNLP (Findings) 2023: 
 
 **Feng Jiang**, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504. (**CCF-B**)
 
-Yaqiong He, **Feng Jiang**, Xiaomin Chu, Peifeng Li: Automated Chinese Essay Scoring from Multiple Traits. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022): 3007-3016. (**CCF-B**)
+Yaxin Fan, **Feng Jiang#**, Peifeng Li, Haizhou Li: Uncovering the Potential of ChatGPT for Discourse Analysis in Dialogue: An Empirical Study. COLING 2024. (Accepted). (**CCF-B**)
 
-Xiaomin Chu, **Feng Jiang**, Yi Zhou, Guodong Zhou, Qiaoming Zhu: Joint Modeling of Structure Identification and Nuclearity Recognition in Macro Chinese Discourse Treebank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 536-546. (**CCF-B**) (Best Paper Honorable Mention).
+**Hongbo Zhang\***, **Junying Chen\***, **Feng Jiang\***, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
+HuatuoGPT, Towards Taming Language Model, to Be a Doctor. EMNLP (Findings) 2023: 10859-10885.
 
-Zhiguang Gao, **Feng Jiang**, Xiaomin Chu, Peifeng Li. Adversarial Fine-grained Fact Graph for Factuality-oriented 
-Abstractive Summarization. In Proceedings of the CCF International Conference on Natural Language Processing and 
-Chinese Computing (NLPCC 2022). (**CCF-C**) (**Best Student Paper**)
+Lingyi Yang, **Feng Jiang#**, Haizhou Li: Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text. APSIPA Transactions on Signal and Information Processing, 2023, 13(2).
+
+Yaxin Fan, **Feng Jiang**, Peifeng Li, Fang Kong, and Qiaoming Zhu. 2023. Improving Dialogue Discourse Parsing via Reply-to Structures of Addressee Recognition. EMNLP 2023: 8484–8495. (**CCF-B**)
+
+Yaqiong He, **Feng Jiang**, Xiaomin Chu, Peifeng Li: Automated Chinese Essay Scoring from Multiple Traits. COLING 2022: 3007-3016. (**CCF-B**)
+
+Xiaomin Chu, **Feng Jiang**, Yi Zhou, Guodong Zhou, Qiaoming Zhu: Joint Modeling of Structure Identification and Nuclearity Recognition in Macro Chinese Discourse Treebank. COLING 2018: 536-546. (**CCF-B**) (Best Paper Honorable Mention).
+
+Zhiguang Gao, **Feng Jiang**, Xiaomin Chu, Peifeng Li. Adversarial Fine-grained Fact Graph for Factuality-oriented Abstractive Summarization. NLPCC 2022. (**CCF-C**) (**Best Student Paper**)
+
+Yaxin Fan, **Feng Jiang**, Peifeng Li, Haizhou Li: GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning. NLPCC 2023: 69-80. (**CCF-C**)
