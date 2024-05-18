@@ -63,7 +63,7 @@ Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang#**, Benyou Wang: PlatoLM: Teachin
 
 **Feng Jiang**, Yaxin Fan, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Fang Kong: Hierarchical Macro Discourse Parsing Based on Topic Segmentation. In Proceedings of the Conference on Artificial Intelligence (AAAI 2021): 13152-13160. (**CCF-A**)
 
-**Feng Jiang**, Weihao Liu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Haizhou Li: Advancing Topic Segmentation and Outline Generation in Chinese Texts: The Paragraph-level Topic Representation, Corpus, and Benchmark. COLING 2024. (Accepted). (**CCF-B**)
+**Feng Jiang**, Weihao Liu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Haizhou Li: Advancing Topic Segmentation and Outline Generation in Chinese Texts: The Paragraph-level Topic Representation, Corpus, and Benchmark. COLING 2024: 495-506. (**CCF-B**)
 
 **Feng Jiang**, Yaxin Fan, Xiaomin Chu, Peifeng Li, Qiaoming Zhu: Not Just Classification: Recognizing Implicit Discourse Relation on Joint Modeling of Classification and Generation. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021): 2418-2431. (**CCF-B**)
 
@@ -71,7 +71,7 @@ Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang#**, Benyou Wang: PlatoLM: Teachin
 
 **Feng Jiang**, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504. (**CCF-B**)
 
-Yaxin Fan, **Feng Jiang#**, Peifeng Li, Haizhou Li: Uncovering the Potential of ChatGPT for Discourse Analysis in Dialogue: An Empirical Study. COLING 2024. (Accepted). (**CCF-B**)
+Yaxin Fan, **Feng Jiang#**, Peifeng Li, Haizhou Li: Uncovering the Potential of ChatGPT for Discourse Analysis in Dialogue: An Empirical Study. COLING 2024: 16998-17010. (**CCF-B**)
 
 **Hongbo Zhang\***, **Junying Chen\***, **Feng Jiang\***, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
 HuatuoGPT, Towards Taming Language Model, to Be a Doctor. EMNLP (Findings) 2023: 10859-10885.
