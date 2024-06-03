@@ -68,8 +68,11 @@ Teaching
   
 Service and leadership
 ======
-* As the Senior Area Chair (SAC) in ACL ARR 2024.
-* As the Area Chair (AC) in NAACL 2024 and ACL 2024.
-* As the Virtual Infrastructure Chair and Area Chair in EMNLP 2023.
-* As a PC member in NeurIPS 2023/2024, ACL2019/2020/2023, AAAI2021/2022/2023/2024, EMNLP2020/2021, COLING2022. 
-* As a member of the China Computer Federation (CCF). 
+* Organizing Committee Member (Virtual Infrastructure Chair, VIC) for [EMNLP 2023](https://2023.emnlp.org/organization/)
+* Senior Area Editor (SAE) for ACL ARR 2024
+* Area Chair (AC) for EMNLP 2023, NAACL 2024, and ACL 2024
+* Reviewer for NeurIPS 2023-2024, ACL 2019-2022, AAAI 2021-2023, and IEEE/ACM-TASLP Journal
+* Professional Member of the China Computer Federation (CCF)
+* Member of the Shenzhen Key Laboratory of Cross-Modal Cognitive Computing
+* Speaker for the CIPS ATT "LLM Series" (Specific Domain Large Language Model Construction) - Shenzhen Station 
+* Instructor for the CSDN ["Practical Applications of Large-Scale Language Models" Series Course](https://edu.csdn.net/course/detail/38824) (3000+ students)
