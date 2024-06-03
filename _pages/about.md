@@ -57,7 +57,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 [📚 **Representative Work**]
 
-Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang#**, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024. (Accepted). (**CCF-A**)
+Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang***, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024. (Accepted). (**CCF-A**)
 
 **蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194. 
 
@@ -71,12 +71,7 @@ Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang#**, Benyou Wang: PlatoLM: Teachin
 
 **Feng Jiang**, Sheng Xu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Guodong Zhou: MCDTB: A Macro-level Chinese Discourse TreeBank. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018): 3493-3504. (**CCF-B**)
 
-Yaxin Fan, **Feng Jiang#**, Peifeng Li, Haizhou Li: Uncovering the Potential of ChatGPT for Discourse Analysis in Dialogue: An Empirical Study. COLING 2024: 16998-17010. (**CCF-B**)
-
-**Hongbo Zhang\***, **Junying Chen\***, **Feng Jiang\***, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
-HuatuoGPT, Towards Taming Language Model, to Be a Doctor. EMNLP (Findings) 2023: 10859-10885.
-
-Lingyi Yang, **Feng Jiang#**, Haizhou Li: Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text. APSIPA Transactions on Signal and Information Processing, 2023, 13(2).
+Yaxin Fan, **Feng Jiang***, Peifeng Li, Haizhou Li: Uncovering the Potential of ChatGPT for Discourse Analysis in Dialogue: An Empirical Study. COLING 2024: 16998-17010. (**CCF-B**)
 
 Yaxin Fan, **Feng Jiang**, Peifeng Li, Fang Kong, and Qiaoming Zhu. 2023. Improving Dialogue Discourse Parsing via Reply-to Structures of Addressee Recognition. EMNLP 2023: 8484–8495. (**CCF-B**)
 
@@ -86,4 +81,9 @@ Xiaomin Chu, **Feng Jiang**, Yi Zhou, Guodong Zhou, Qiaoming Zhu: Joint Modeling
 
 Zhiguang Gao, **Feng Jiang**, Xiaomin Chu, Peifeng Li. Adversarial Fine-grained Fact Graph for Factuality-oriented Abstractive Summarization. NLPCC 2022. (**CCF-C**) (**Best Student Paper**)
 
-Yaxin Fan, **Feng Jiang**, Peifeng Li, Haizhou Li: GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning. NLPCC 2023: 69-80. (**CCF-C**)
+Yaxin Fan, **Feng Jiang***, Peifeng Li, Haizhou Li: GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning. NLPCC 2023: 69-80. (**CCF-C**)
+
+Lingyi Yang, **Feng Jiang***, Haizhou Li: Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text. APSIPA Transactions on Signal and Information Processing, 2023, 13(2).
+
+**Hongbo Zhang#**, **Junying Chen#**, **Feng Jiang#**, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
+HuatuoGPT, Towards Taming Language Model, to Be a Doctor. EMNLP (Findings) 2023: 10859-10885.
