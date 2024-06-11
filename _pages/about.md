@@ -17,6 +17,8 @@ I'm also a PC member in AAAI 2024, NeurIPS 2024, COLM 2024, and ECAI 2024 and th
 
 You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+I have written the [Guidelines for Developing Core Competencies for Graduate Students](https://docs.qq.com/slide/DUnRncXZBbmF0eENs) in Chinese, which will be updated with my practice.
+
 [Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
 [✨ **Latest News**]
