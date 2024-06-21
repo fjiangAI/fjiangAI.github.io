@@ -22,6 +22,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 [Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
 [✨ **Latest News**]
+
 [06/20/24] We released our Rethinking on Data Selection for Fine-Tuning Large Language Models and its [technique report](https://arxiv.org/pdf/2406.14115).
 
 [05/30/24] We released our TS-Align, A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models and its [technique report](https://arxiv.org/pdf/2405.20215).
