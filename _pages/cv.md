@@ -45,7 +45,7 @@ Competition
 ======
 * [NLPCC Share Task 2023](http://tcci.ccf.org.cn/conference/2023/cfpt.php) 
     * Chinese Grammatical Error Correction track (TOP 3, Second Prize)
-    * The task  aims to automatically correct grammatical errors that violate language rules and convert the noisy input texts to cleaned output texts. This task focuses on correcting grammatical errors made by Chinese native speakers.
+    * The task  aims to automatically correct grammatical errors that violate language rules and convert the noisy input texts to cleaned output texts. This task focuses on correcting grammatical errors made by native Chinese speakers.
     * As the leader of the team (collaborate with 1 postgraduate student).
     * Proposed a human-machine hybrid data construction method and an error-invariant data enhancement method for the no-training dataset setup.
     * Based on our Phoenix model,  we trained GrammarGPT to achieve better performance than the SOTA model, only using data of 1/1200.
@@ -72,7 +72,7 @@ Service and leadership
 * Senior Area Editor (SAE) for ACL ARR 2024
 * Area Chair (AC) for EMNLP 2023, NAACL 2024, and ACL 2024
 * Reviewer for NeurIPS 2023-2024, ACL 2019-2022, AAAI 2021-2023, and IEEE/ACM-TASLP Journal
-* Professional Member of the China Computer Federation (CCF)
+* Professional Member of the China Computer Federation (CCF) and Chinese Information Processing Society of China (CIPS)
 * Member of the Shenzhen Key Laboratory of Cross-Modal Cognitive Computing
 * Speaker for the CIPS ATT "LLM Series" (Specific Domain Large Language Model Construction) - Shenzhen Station 
 * Instructor for the CSDN ["Practical Applications of Large-Scale Language Models" Series Course](https://edu.csdn.net/course/detail/38824) (3000+ students)
