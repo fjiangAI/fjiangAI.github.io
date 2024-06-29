@@ -44,7 +44,7 @@ Publications
 Competition
 ======
 * [NLPCC Share Task 2023](http://tcci.ccf.org.cn/conference/2023/cfpt.php) 
-    * Chinese Grammatical Error Correction track (TOP 3, Second Prize)
+    * Chinese Grammatical Error Correction track (TOP 3)
     * The task  aims to automatically correct grammatical errors that violate language rules and convert the noisy input texts to cleaned output texts. This task focuses on correcting grammatical errors made by native Chinese speakers.
     * As the leader of the team (collaborate with 1 postgraduate student).
     * Proposed a human-machine hybrid data construction method and an error-invariant data enhancement method for the no-training dataset setup.
