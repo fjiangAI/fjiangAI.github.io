@@ -67,7 +67,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 [📚 **Representative Work**]
 
-Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang***, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024. (Accepted). (**CCF-A**)
+Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang***, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024: 7841–7863. (**CCF-A**)
 
 **蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194. 
 
