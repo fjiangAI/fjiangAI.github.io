@@ -19,15 +19,25 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 I have written the [Guidelines for Developing Core Competencies for Graduate Students](https://docs.qq.com/slide/DUnRncXZBbmF0eENs) in Chinese, which will be updated with my practice.
 
+# [🔬 **Research Area**]
+
+- Generaal LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
+- Medical domain LLM model: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
+- Medical domain LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
+- LLM optimization: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215)
+- Application of LLM:[MMAPIS](https://github.com/fjiangAI/MMAPIS),[HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
+- Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA)
+
+
 [Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
-[✨ **Latest News**]
+# [✨ **Latest News**]
 
 [07/10/24] 🎉🎉🎉 We have one paper accepted as the main conference of COLM.
 
 [06/20/24] We released our Rethinking on Data Selection for Fine-Tuning Large Language Models and its [technique report](https://arxiv.org/pdf/2406.14115).
 
-[05/30/24] We released our TS-Align, A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models and its [technique report](https://arxiv.org/pdf/2405.20215).
+[05/30/24] We released our TS-Align, A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models (TS-align) and its [technique report](https://arxiv.org/pdf/2405.20215).
 
 [05/30/24] We released our [UMLF](https://github.com/Jeff-Sue/URT), an unsupervised mutual learning framework for discourse parsing and topic segmentation and its [technique report](https://arxiv.org/pdf/2405.19799).
 
@@ -49,7 +59,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 [10/06/23] 🎉🎉🎉 We have three papers accepted as the main conference or Findings of EMNLP.
 
-[08/23/23] We released our [ReaLM](https://github.com/FreedomIntelligence/ReaLM), a user-simulator-based LLM, and its [technique report](https://arxiv.org/abs/2308.11534v1).
+[08/23/23] We released our [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), a user-simulator-based LLM, and its [technique report](https://arxiv.org/abs/2308.11534v1).
 
 [08/21/23] We released our [CMB](https://github.com/FreedomIntelligence/CMB), a Comprehensive multi-level assessment for medical knowledge, and its [technique report](https://arxiv.org/abs/2308.08833).
 
@@ -65,7 +75,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 [01/13/23] 🎉🎉🎉 We got the First Prize in the summarization track of [CAIL 2022](http://cail.cipsc.org.cn/task_summit.html?raceID=4&cail_tag=2022).
 
-[📚 **Representative Work**]
+# [📚 **Representative Work**]
 
 Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang***, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024: 7841–7863. (**CCF-A**)
 
