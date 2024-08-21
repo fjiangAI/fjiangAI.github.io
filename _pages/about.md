@@ -19,6 +19,8 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 I have written the [Guidelines for Developing Core Competencies for Graduate Students](https://docs.qq.com/slide/DUnRncXZBbmF0eENs) in Chinese, which will be updated with my practice.
 
+[Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
+
 # [🔬 **Research Area**]
 
 - Generaal LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
@@ -29,7 +31,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 - Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA)
 
 
-[Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
+
 
 # [✨ **Latest News**]
 
