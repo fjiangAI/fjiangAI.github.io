@@ -23,7 +23,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [🔬 **Research Area**]
 
-- Generaal LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
+- General LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
 - Medical domain LLM model: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
 - Medical domain LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
 - LLM optimization: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215)
