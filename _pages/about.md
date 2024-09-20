@@ -35,6 +35,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [✨ **Latest News**]
 
+[09/20/24] 🎉🎉🎉 We have two papers accepted as the main conference or Findings of EMNLP.
+
 [07/10/24] 🎉🎉🎉 We have one paper accepted as the main conference of COLM.
 
 [06/20/24] We released our Rethinking on Data Selection for Fine-Tuning Large Language Models and its [technique report](https://arxiv.org/pdf/2406.14115).
