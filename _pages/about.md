@@ -41,6 +41,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 [06/20/24] We released our Rethinking on Data Selection for Fine-Tuning Large Language Models and its [technique report](https://arxiv.org/pdf/2406.14115).
 
+[06/16/24] We released our A Study on Judgement Bias on Humans and LLMs and its [technique report](https://arxiv.org/pdf/2402.10669).
+
 [05/30/24] We released our TS-Align, A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models (TS-align) and its [technique report](https://arxiv.org/pdf/2405.20215).
 
 [05/30/24] We released our [UMLF](https://github.com/Jeff-Sue/URT), an unsupervised mutual learning framework for discourse parsing and topic segmentation and its [technique report](https://arxiv.org/pdf/2405.19799).
