@@ -26,8 +26,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 - General LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
 - Medical domain LLM model: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
 - Medical domain LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
-- LLM optimization: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215)
-- Application of LLM:[MMAPIS](https://github.com/fjiangAI/MMAPIS),[HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
+- LLM optimization: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948)
+- Application of LLM:[MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
 - Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA)
 
 
@@ -36,6 +36,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 # [✨ **Latest News**]
 
 [09/20/24] 🎉🎉🎉 We have two papers accepted as the main conference or Findings of EMNLP.
+
+[09/20/24] We released our FLR, A reward model taking follow-up likelihood as the reward signals and its [technique report](https://arxiv.org/pdf/2409.13948). 
 
 [07/10/24] 🎉🎉🎉 We have one paper accepted as the main conference of COLM.
 
