@@ -43,6 +43,13 @@ Publications
   
 Competition
 ======
+* [ICSR+InnoBiz]
+    * GRASS Social Robotic Competition Award (TOP 2)
+    * This task aims to propose the use of artificial intelligence to endow better human-computer interaction, especially considering sentiment and emotions.
+    * As the leader of the team (collaborate with 1 postgraduate student and 1 undergraduate).
+    * Proposed a human-machine hybrid data construction method and an error-invariant data enhancement method for the no-training dataset setup.
+    * Provided an end-to-end digital human framework based on LLMs for emotion perception, cognition, expression, and reflection.
+      
 * [NLPCC Share Task 2023](http://tcci.ccf.org.cn/conference/2023/cfpt.php) 
     * Chinese Grammatical Error Correction track (TOP 3)
     * The task  aims to automatically correct grammatical errors that violate language rules and convert the noisy input texts to cleaned output texts. This task focuses on correcting grammatical errors made by native Chinese speakers.
