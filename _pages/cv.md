@@ -43,7 +43,7 @@ Publications
   
 Competition
 ======
-* [ICSR+InnoBiz]
+* ICSR+InnoBiz 2024
     * GRASS Social Robotic Competition Award (TOP 2)
     * This task aims to propose the use of artificial intelligence to endow better human-computer interaction, especially considering sentiment and emotions.
     * As the leader of the team (collaborate with 1 postgraduate student and 1 undergraduate).
