@@ -35,6 +35,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [✨ **Latest News**]
 
+[12/10/24] 🎉🎉🎉 We have one paper accepted by the Technical Track at AAAI.
+
 [09/20/24] 🎉🎉🎉 We have two papers accepted as the main conference or Findings of EMNLP.
 
 [09/20/24] We released our FLR, A reward model taking follow-up likelihood as the reward signals and its [technique report](https://arxiv.org/pdf/2409.13948). 
