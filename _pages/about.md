@@ -35,6 +35,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [✨ **Latest News**]
 
+[01/20/25] 🎉🎉🎉 We have one paper accepted by the WWW.
+
 [12/10/24] 🎉🎉🎉 We have one paper accepted by the Technical Track at AAAI.
 
 [10/18/24] We released our HNDC, A fine-grained AI-generated text detector, and its [technique report](https://arxiv.org/pdf/2410.14259). 
