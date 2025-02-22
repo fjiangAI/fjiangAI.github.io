@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). My research interests include artificial intelligence, natural language processing, large language models, discourse parsing, dialogue systems, and summarization.
-
-I am very fortunate to work with [Prof. Haizhou Li](https://colips.org/~eleliha/). I also collaborate with [Prof. Benyou Wang](https://wabyking.github.io/old.html) to research LLMs.
+I'm an Associate research fellow at [Shenzhen University of Advanced Technology](https://www.cuhk.edu.cn/en), and I work closely with [Prof. Min Yang](https://minyang.me/). My research interests include artificial intelligence, natural language processing, large language models, discourse parsing, dialogue systems, and summarization. Before that, I was a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and worked with [Prof. Haizhou Li](https://colips.org/~eleliha/) and [Prof. Benyou Wang](https://wabyking.github.io/old.html) to research LLMs.
 
 I serve as a Senior Action Editor (SAE) in ACL Rolling Review, the Area Chair (Discourse and Pragmatics) in EMNLP 2023, and the Area Chair (Resources and Evaluation) in NAACL 2024 and ACL 2024. 
 I'm also a PC member in AAAI 2024, NeurIPS 2024, COLM 2024, and ECAI 2024 and the reviewer for the Journal of IEEE Transactions on Audio, Speech, and Language Processing and the International Journal of Social Robotics.
@@ -19,7 +16,7 @@ You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vi
 
 I have written the [Guidelines for Developing Core Competencies for Graduate Students](https://docs.qq.com/slide/DUnRncXZBbmF0eENs) in Chinese, which will be updated with my practice.
 
-[Email](mailto:jeffreyjiang@cuhk.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
+[Email](mailto:jiangfeng@suat-sz.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
 # [🔬 **Research Area**]
 
@@ -93,11 +90,17 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [📚 **Representative Work**]
 
+Chen Zhang, Dading Chong, **Feng Jiang***, Chengguang Tang, Anningzhe Gao, Guohua Tang, Haizhou Li: Aligning Language Models Using Follow-up Likelihood as Reward Signal. AAAI 2025. (**CCF-A**)
+
 Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang***, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024: 7841–7863. (**CCF-A**)
 
 **蒋峰**, 范亚鑫, 褚晓敏, 李培峰, 朱巧明. 英汉篇章结构分析研究综述. 软件学报,2023,34(09):4167-4194. 
 
 **Feng Jiang**, Yaxin Fan, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Fang Kong: Hierarchical Macro Discourse Parsing Based on Topic Segmentation. In Proceedings of the Conference on Artificial Intelligence (AAAI 2021): 13152-13160. (**CCF-A**)
+
+Zihao Chen, Li Zhou, **Feng Jiang**, Benyou Wang, Haizhou Li. Beyond Binary: Towards Fine-Grained LLM-Generated Text Detection via Role Recognition and Involvement Measurement. WWW 2025. (**CCF-A**)
+
+Ziche Liu, Rui Ke, Yajiao Liu, **Feng Jiang***, Haizhou Li. Take the essence and discard the dross: A Rethinking on Data Selection for Fine-Tuning Large Language Models. NAACL 2025. (**CCF-B**)
 
 **Feng Jiang**, Weihao Liu, Xiaomin Chu, Peifeng Li, Qiaoming Zhu, Haizhou Li: Advancing Topic Segmentation and Outline Generation in Chinese Texts: The Paragraph-level Topic Representation, Corpus, and Benchmark. COLING 2024: 495-506. (**CCF-B**)
 
