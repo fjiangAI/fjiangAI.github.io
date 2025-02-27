@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an associate research fellow at [Shenzhen University of Advanced Technology](https://www.cuhk.edu.cn/en), and I work closely with [Prof. Min Yang](https://minyang.me/). My research interests include artificial intelligence, natural language processing, large language models, discourse parsing, dialogue systems, and summarization. Before that, I was a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and worked with [Prof. Haizhou Li](https://colips.org/~eleliha/) and [Prof. Benyou Wang](https://wabyking.github.io/old.html) to research LLMs.
+I'm an associate research fellow at [Shenzhen University of Advanced Technology](https://www.suat-sz.edu.cn/), and I work closely with [Prof. Min Yang](https://minyang.me/). My research interests include artificial intelligence, natural language processing, large language models, discourse parsing, dialogue systems, and summarization. Before that, I was a Postdoc research fellow at [School of Data Science](https://sds.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and worked with [Prof. Haizhou Li](https://colips.org/~eleliha/) and [Prof. Benyou Wang](https://wabyking.github.io/old.html) to research LLMs.
 
 I serve as a Senior Action Editor (SAE) in ACL Rolling Review, the Area Chair (Discourse and Pragmatics) in EMNLP 2023, and the Area Chair (Resources and Evaluation) in NAACL 2024 and ACL 2024. 
 I'm also a PC member in AAAI 2024, NeurIPS 2024, COLM 2024, and ECAI 2024 and the reviewer for the Journal of IEEE Transactions on Audio, Speech, and Language Processing and the International Journal of Social Robotics.
