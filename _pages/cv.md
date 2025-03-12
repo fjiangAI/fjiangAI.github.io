@@ -11,7 +11,6 @@ redirect_from:
 
 Education/PostDoc
 ======
-* B.S. in Computer Science and Technology, Jiangsu University of Science and Technology, 2016
 * M.S. in Computer Science and Technology, Soochow University, 2019
 * Ph.D in Computer Science and Technology, Soochow University, 2022
 * PostDoc in Computer Science and Technology, The Chinese University of Hong Kong, Shenzhen, 2024 (expected)
@@ -43,7 +42,7 @@ Publications
   
 Competition
 ======
-* ICSR+InnoBiz 2024
+* [ICSR+InnoBiz 2024](https://www.asianlp.sg/conferences/icsr2024/web/)
     * GRASS Social Robotic Competition Award (TOP 2)
     * This task aims to propose the use of artificial intelligence to endow better human-computer interaction, especially considering sentiment and emotions.
     * As the leader of the team (collaborate with 1 postgraduate student and 1 undergraduate).
