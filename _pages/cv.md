@@ -11,9 +11,9 @@ redirect_from:
 
 Education/PostDoc
 ======
-* M.S. in Computer Science and Technology, Soochow University, 2019
+* PostDoc in Computer Science and Technology, The Chinese University of Hong Kong, Shenzhen, 2024
 * Ph.D in Computer Science and Technology, Soochow University, 2022
-* PostDoc in Computer Science and Technology, The Chinese University of Hong Kong, Shenzhen, 2024 (expected)
+* M.S. in Computer Science and Technology, Soochow University, 2019
 
 Work experience
 ======
@@ -21,7 +21,7 @@ Work experience
   * Microsoft 
   * Responsible for the research on the more natural conversation experience with dialogue act
   * As a key member in building a dialogue process description and control prototype system
-  * The system contains four dimensions contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory
+  * The system contains four dimensions of contexts based on Dialogue Interpretation Theory (DIT++), leveraging dialog act and beliefs to make the robot more natural, politer, more active, and longer memory
   * Supervisor: Yue Pan
   
 Research Project
@@ -29,7 +29,7 @@ Research Project
 * Research on discourse structure analysis driven by micro and macro nuclearity (NSFC)
 * Fifth participant 
 * Responsible for the research on the Chinese macro discourse resources construction and discourse analysis methods
-* As the main member in constructing a representation schema of Chinese macro discourse structure
+* As the main member in constructing a representation schema of the Chinese macro discourse structure
 * As one of the main leaders in the annotation of the Macro Chinese Discourse TreeBank (MCDTB)
 * Proposed two discourse parsers based on global reverse reading and topic segmentation, according to the characteristics of Chinese macro discourse structure
 * Proposed three neural models, which enhance the semantic representation of discourse units, indirectly and directly modeling discourse relations separately, to recognize implicit discourse relations
