@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Feng Jiang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Feng Jiang"
-description              : &description "Senior Researcher (Research Assistant Professor) at Shenzhen University of Advanced Technology."
+description              : &description "Senior Researcher at Shenzhen University of Advanced Technology."
 url                      : https://fjiangAI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fjiangAI/fjiangAI.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Feng Jiang"
   avatar           : "profile.png"
-  bio              : "Senior Researcher (Research Assistant Professor) at Shenzhen University of Advanced Technology."
+  bio              : "Senior Researcher at Shenzhen University of Advanced Technology."
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
