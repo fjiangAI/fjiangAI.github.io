@@ -23,7 +23,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 - General LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
 - Medical domain LLM model: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
 - Medical domain LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
-- LLM optimization: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948)
+- User Modeling: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
+- LLM optimization: [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948)
 - Application of LLM:[MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [HNDC](https://arxiv.org/pdf/2410.14259), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
 - Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA)
 
@@ -31,6 +32,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 
 # [✨ **Latest News**]
+
+[05/15/25] 🎉🎉🎉 We have one paper accepted by the ACL.
 
 [01/23/25] 🎉🎉🎉 We have one paper accepted by the NAACL.
 
@@ -90,6 +93,8 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [📚 **Representative Work**]
 
+Kuang Wang, Xianfei Li, Shenghao Yang, Li Zhou, **Feng Jiang***, Haizhou Li: Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles. ACL 2025. (**CCF-A**)
+
 Chen Zhang, Dading Chong, **Feng Jiang***, Chengguang Tang, Anningzhe Gao, Guohua Tang, Haizhou Li: Aligning Language Models Using Follow-up Likelihood as Reward Signal. AAAI 2025. (**CCF-A**)
 
 Chuyi Kong, Yaxin Fan, Xiang Wan, **Feng Jiang***, Benyou Wang: PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator. ACL 2024: 7841–7863. (**CCF-A**)
@@ -122,7 +127,9 @@ Zhiguang Gao, **Feng Jiang**, Xiaomin Chu, Peifeng Li. Adversarial Fine-grained 
 
 Yaxin Fan, **Feng Jiang***, Peifeng Li, Haizhou Li: GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning. NLPCC 2023: 69-80. (**CCF-C**)
 
-Lingyi Yang, **Feng Jiang***, Haizhou Li: Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text. APSIPA Transactions on Signal and Information Processing, 2023, 13(2).
+Lingyi Yang, **Feng Jiang***, Haizhou Li: Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text. APSIPA Transactions on Signal and Information Processing, 2023, 13(2) (**JCR Q2**).
 
 **Hongbo Zhang#**, **Junying Chen#**, **Feng Jiang#**, Fei Yu, Zhihong Chen, Guiming Chen, Jianquan Li, Xiangbo Wu, Zhiyi Zhang, Qingying Xiao, Xiang Wan, Benyou Wang, Haizhou Li:
 HuatuoGPT, Towards Taming Language Model, to Be a Doctor. EMNLP (Findings) 2023: 10859-10885.
+
+Chen Zhang, Chengguang Tang, Dading Chong, Ke Shi, Guohua Tang, **Feng Jiang***, Haizhou Li. TS-Align: A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models. EMNLP (Findings) 2024: 8926-8946.
