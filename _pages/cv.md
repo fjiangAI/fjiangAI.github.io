@@ -42,6 +42,14 @@ Publications
   
 Competition
 ======
+* [DSTC-12](https://sites.google.com/dstc.community/dstc-12/home)
+    * Controllable Conversational Theme Detection Track (Top 2 Placement)
+    * Theme detection is essential for analyzing conversations, especially in customer support, sales, and marketing domains. Automatically identifying and categorizing conversation themes greatly reduces the need for manual review of lengthy dialogues.
+    * Served as the team leader, overseeing the overall research direction and implementation.
+    * Proposed a preference-guided topic clustering algorithm that assigns utterances to topic groups based on user preferences at the cross-conversation level.
+    * Developed a context-aware topic labeling method capable of generating coherent topic labels by considering contextual dependencies within a single conversation.
+
+
 * [ICSR+InnoBiz 2024](https://www.asianlp.sg/conferences/icsr2024/web/)
     * GRASS Social Robotic Competition Award (TOP 2)
     * This task aims to propose the use of artificial intelligence to endow better human-computer interaction, especially considering sentiment and emotions.
@@ -75,9 +83,10 @@ Teaching
 Service and leadership
 ======
 * Organizing Committee Member (Virtual Infrastructure Chair, VIC) for [EMNLP 2023](https://2023.emnlp.org/organization/)
-* Senior Area Editor (SAE) for ACL ARR 2024
+* (Senior) Area Editor for ACL ARR 2024/2025
+* Senior Area Chair for IJCNLP-AACL 2025
 * Area Chair (AC) for EMNLP 2023, NAACL 2024, and ACL 2024
-* Reviewer for NeurIPS 2023-2024, ACL 2019-2022, AAAI 2021-2023, and IEEE/ACM-TASLP Journal
+* Reviewer for NeurIPS 2023-2024, ACL 2019-2022, AAAI 2021-2023, IEEE/ACM-TASLP Journal, and Information Processing & Management
 * Professional Member of the China Computer Federation (CCF) and Chinese Information Processing Society of China (CIPS)
 * Member of the Shenzhen Key Laboratory of Cross-Modal Cognitive Computing
 * Speaker for the CIPS ATT "LLM Series" (Specific Domain Large Language Model Construction) - Shenzhen Station 
