@@ -20,11 +20,10 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 
 # [🔬 **Research Area**]
 
-- General LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo)
-- Medical domain LLM model: [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
-- Medical domain LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
-- User Modeling: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
+- LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
+- LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
 - LLM optimization: [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948)
+- User Modeling: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
 - Application of LLM:[MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [HNDC](https://arxiv.org/pdf/2410.14259), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
 - Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA)
 
