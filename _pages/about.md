@@ -15,8 +15,12 @@ I'm also a PC member in AAAI 2024, NeurIPS 2024, COLM 2024, and ECAI 2024, and t
 You can find my CV here: [Feng Jiang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 I have written the [Guidelines for Developing Core Competencies for Graduate Students](https://docs.qq.com/slide/DUnRncXZBbmF0eENs) in Chinese, which will be updated with my practice.
-
+Here are some [personal guidelines](https://blog.csdn.net/qq_35082030/category_12959319.html) I've written for how to write an ACL Series Paper for reference.
+﻿
 [Email](mailto:jiangfeng@suat-sz.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
+﻿
+If you want to discuss with me, you can email me and find a proper time slot for you and me by clicking the button below.
+
 
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
@@ -35,6 +39,7 @@ I have written the [Guidelines for Developing Core Competencies for Graduate Stu
 })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
+
 
 # [🔬 **Research Area**]
 
