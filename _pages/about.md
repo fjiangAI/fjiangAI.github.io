@@ -55,6 +55,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [✨ **Latest News**]
 
+[08/14/25] 🎉🎉🎉 We have one paper accepted by [npj Health Systems](https://www.nature.com/npjhealthsyst/).
+
 [05/24/25] 🎉🎉🎉 We achieve the Top2 of DSTC-12 Track 2：Controllable Conversational Theme Detection.
 
 [05/15/25] 🎉🎉🎉 We have one paper accepted by the ACL.
