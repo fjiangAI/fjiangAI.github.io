@@ -42,13 +42,10 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 
 # [🔬 **Research Area**]
-
-- LLM model: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II)
-- LLM Benchmark: [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
-- LLM optimization: [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948)
-- User Modeling: [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
-- Application of LLM:[MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [HNDC](https://arxiv.org/pdf/2410.14259), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
-- Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA)
+- Domain-specific LLM: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
+- Persona and alignment: [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948), [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
+- Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [GPTforDDA](https://github.com/yxfanSuda/GPTforDDA), [CATCH](https://github.com/SUAT-AIRI/CATCH)
+- Application of LLM: [MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [HNDC](https://arxiv.org/pdf/2410.14259), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
 
 
 
@@ -69,11 +66,11 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 [10/18/24] We released our HNDC, A fine-grained AI-generated text detector, and its [technique report](https://arxiv.org/pdf/2410.14259). 
 
-[09/20/24] 🎉🎉🎉 We have two papers accepted as the main conference or Findings of EMNLP.
+[09/20/24] 🎉🎉🎉 We have two papers accepted by the EMNLP.
 
 [09/20/24] We released our FLR, A reward model taking follow-up likelihood as the reward signals and its [technique report](https://arxiv.org/pdf/2409.13948). 
 
-[07/10/24] 🎉🎉🎉 We have one paper accepted as the main conference of COLM.
+[07/10/24] 🎉🎉🎉 We have one paper accepted by the COLM.
 
 [06/20/24] We released our Rethinking on Data Selection for Fine-Tuning Large Language Models and its [technique report](https://arxiv.org/pdf/2406.14115).
 
@@ -83,23 +80,23 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 [05/30/24] We released our [UMLF](https://github.com/Jeff-Sue/URT), an unsupervised mutual learning framework for discourse parsing and topic segmentation and its [technique report](https://arxiv.org/pdf/2405.19799).
 
-[05/16/24] 🎉🎉🎉 We have one paper accepted as the main conference of ACL.
+[05/16/24] 🎉🎉🎉 We have one paper accepted by the ACL.
 
 [03/26/24] We released our [CPTS](https://github.com/fjiangAI/CPTS), a Chinese paragraph-level topic structure corpus and its [technique report](https://arxiv.org/pdf/2305.14790).
 
-[03/15/24] 🎉🎉🎉 We have one paper accepted as the main conference of NAACL.
+[03/15/24] 🎉🎉🎉 We have one paper accepted by the NAACL.
 
 [03/05/24] We made [an empirical study for ChatGPT in discourse analysis of dialogue](https://github.com/yxfanSuda/GPTforDDA) and released its [technique report](https://arxiv.org/pdf/2305.08391).
 
-[02/20/24] 🎉🎉🎉 We have two papers accepted as the main conference of COLING.
+[02/20/24] 🎉🎉🎉 We have two papers accepted by the COLING.
 
-[01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), A open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
+[01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), an open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
 
 [11/16/23] We released our upgrade of HuatuoGPT to [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), and its [technique report](https://arxiv.org/abs/2311.09774).
 
 [11/16/23] We released our [SDAK](https://github.com/FreedomIntelligence/SDAK), a self-diagnostic atomic knowledge benchmark for popular Chinese medical foundation models, and its [technique report](https://arxiv.org/abs/2310.11722).
 
-[10/06/23] 🎉🎉🎉 We have three papers accepted as the main conference or Findings of EMNLP.
+[10/06/23] 🎉🎉🎉 We have three papers accepted by the EMNLP.
 
 [08/23/23] We released our [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), a user-simulator-based LLM, and its [technique report](https://arxiv.org/abs/2308.11534v1).
 
