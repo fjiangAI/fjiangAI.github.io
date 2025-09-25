@@ -52,6 +52,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [✨ **Latest News**]
 
+[09/26/25] 🎉🎉🎉 We have one paper accepted by [TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing/about-taslpro).
+
 [08/14/25] 🎉🎉🎉 We have one paper accepted by [npj Health Systems](https://www.nature.com/npjhealthsyst/).
 
 [05/24/25] 🎉🎉🎉 We achieve the Top2 of DSTC-12 Track 2：Controllable Conversational Theme Detection.
