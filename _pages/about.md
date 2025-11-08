@@ -52,6 +52,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [✨ **Latest News**]
 
+[11/08/25] 🎉🎉🎉 We have one paper accepted by the AAAI.
+
 [09/26/25] 🎉🎉🎉 We have one paper accepted by [TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing/about-taslpro).
 
 [08/14/25] 🎉🎉🎉 We have one paper accepted by [npj Health Systems](https://www.nature.com/npjhealthsyst/).
