@@ -52,6 +52,10 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [✨ **Latest News**]
 
+[01/26/26] 🎉🎉🎉 We have one paper accepted by the ICLR.
+
+## 2025 Year.
+
 [11/08/25] 🎉🎉🎉 We have one paper accepted by the AAAI.
 
 [09/26/25] 🎉🎉🎉 We have one paper accepted by [TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing/about-taslpro).
@@ -65,6 +69,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 [01/23/25] 🎉🎉🎉 We have one paper accepted by the NAACL.
 
 [01/20/25] 🎉🎉🎉 We have one paper accepted by the WWW.
+
+## 2024 Year.
 
 [12/10/24] 🎉🎉🎉 We have one paper accepted by the Technical Track at AAAI.
 
@@ -95,6 +101,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 [02/20/24] 🎉🎉🎉 We have two papers accepted by the COLING.
 
 [01/16/24] We released our [MMAPIS](https://github.com/fjiangAI/MMAPIS), an open-sourced Multi-Modal Automated Academic Papers Interpretation System, and its [technique report](https://arxiv.org/abs/2401.09150).
+
+## 2023 Year.
 
 [11/16/23] We released our upgrade of HuatuoGPT to [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), and its [technique report](https://arxiv.org/abs/2311.09774).
 
