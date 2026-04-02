@@ -42,7 +42,7 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 
 # [🔬 **Research Area**]
-- Domain-specific LLM: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB)
+- Domain-specific LLM: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB), [SC-Arena](https://github.com/SUAT-AIRI/SC-Arena).
 - Persona and alignment: [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948), [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
 - Discourse Parsing: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [GPTforDDA](https://github.com/yxfanSuda/GPTforDDA), [CATCH](https://github.com/SUAT-AIRI/CATCH)
 - Application of LLM: [MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [HNDC](https://arxiv.org/pdf/2410.14259), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT)
@@ -51,6 +51,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 
 # [✨ **Latest News**]
+
+[04/02/26] 🎉🎉🎉 We have one paper accepted by the SIGIR.
 
 [01/26/26] 🎉🎉🎉 We have one paper accepted by the ICLR.
 
