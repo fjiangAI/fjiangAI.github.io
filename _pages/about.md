@@ -52,6 +52,8 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [✨ **Latest News**]
 
+[04/07/26] 🎉🎉🎉 We have three papers accepted by the ACL.
+
 [04/02/26] 🎉🎉🎉 We have one paper accepted by the SIGIR.
 
 [01/26/26] 🎉🎉🎉 We have one paper accepted by the ICLR.
