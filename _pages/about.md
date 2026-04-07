@@ -132,7 +132,7 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [📚 **Representative Work**]
 
-**Feng Jiang**, Zhiyu Lin, Yiyang Liu, Liumeng Xue, Fan Bu, Yuhao Du, Xiangying Chen, Benyou Wang*, Haizhou Li: S2S-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models. ACL 2026. (**CCF-A**)
+**Feng Jiang**, Zhiyu Lin, Yiyang Liu, Liumeng Xue, Fan Bu, Yuhao Du, Xiangying Chen, Benyou Wang, Haizhou Li: S2S-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models. ACL 2026. (**CCF-A**)
 
 Xin Chen#, **Feng Jiang**#, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, Min Yang*, Shujian Huang*: Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers. ACL 2026. (**CCF-A**)
 
