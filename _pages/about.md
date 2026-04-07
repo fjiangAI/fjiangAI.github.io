@@ -132,9 +132,15 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 # [📚 **Representative Work**]
 
-Jiahao Zhao, **Feng Jiang***, Shaowei Qin, Zhonghui Zhang, Junhao Liu, Guibing Guo*, Hamid Alinejad-Rokny, Min Yang*, "SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation" ICLR 2026. 
+**Feng Jiang**, Zhiyu Lin, Yiyang Liu, Liumeng Xue, Fan Bu, Yuhao Du, Xiangying Chen, Benyou Wang*, Haizhou Li: S2S-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models. ACL 2026. (**CCF-A**)
 
-Jiahui Xu, **Feng Jiang***, Anningzhe Gao, Luis Fernando D'Haro, Haizhou Li*, "Unsupervised Mutual Learning of Discourse Parsing and Topic Segmentation in Dialogue," in IEEE Transactions on Audio, Speech and Language Processing, vol. 33, pp. 4667-4681, 2025, doi: 10.1109/TASLPRO.2025.3623884. (**SCI 一区**)
+Xin Chen#, **Feng Jiang**#, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, Min Yang*, Shujian Huang*: Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers. ACL 2026. (**CCF-A**)
+
+Zhonghui Zhang, **Feng Jiang***, Shaowei Qin, Jiahao Zhao, Min Yang *: GATHER: Convergence-Centric Hyper-Entity Retrieval for Zero-Shot Cell-Type Annotation. SIGIR 2026 (**CCF-A**)
+
+Jiahao Zhao, **Feng Jiang***, Shaowei Qin, Zhonghui Zhang, Junhao Liu, Guibing Guo *, Hamid Alinejad-Rokny, Min Yang *: SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation. ICLR 2026. (**CCF-A**)
+
+Jiahui Xu, **Feng Jiang***, Anningzhe Gao, Luis Fernando D'Haro, Haizhou Li *: Unsupervised Mutual Learning of Discourse Parsing and Topic Segmentation in Dialogue. IEEE Transactions on Audio, Speech and Language Processing, vol. 33, pp. 4667-4681, 2025, doi: 10.1109/TASLPRO.2025.3623884. (**SCI 一区**)
 
 Kuang Wang, Xianfei Li, Shenghao Yang, Li Zhou, **Feng Jiang***, Haizhou Li: Know You First and Be You Better: Modeling Human-Like User Simulators via Implicit Profiles. ACL 2025. (**CCF-A**)
 
