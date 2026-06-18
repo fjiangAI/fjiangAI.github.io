@@ -19,27 +19,6 @@ Here are some [personal guidelines](https://blog.csdn.net/qq_35082030/category_1
 
 [Email](mailto:jiangfeng@suat-sz.edu.cn) / [Github](https://github.com/fjiangAI) / [CSDN](https://fjiang.blog.csdn.net/)
 
-If you want to discuss with me, you can email me and find a proper time slot for you and me by clicking the button below.
-
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ23eVHHaTKhxXnb4htUtCRGyS2WRZAW1ZEK64TDZHZMT8sU3T6QtAypMrxYEWGqdcVc0WyFfypP?gv=true',
-      color: '#039BE5',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
-
 
 # [🔬 **Research Area**]
 - LLM-Based Dialogue System: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB), [Data Section](https://arxiv.org/pdf/2406.14115), [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [GPTforDDA](https://github.com/yxfanSuda/GPTforDDA), [CATCH](https://github.com/SUAT-AIRI/CATCH)
@@ -66,9 +45,9 @@ If you want to discuss with me, you can email me and find a proper time slot for
 
 [05/24/25] 🎉🎉🎉 We achieve the Top2 of DSTC-12 Track 2：Controllable Conversational Theme Detection.
 
-[05/15/25] 🎉🎉🎉 We have one paper accepted by the ACL.
+[05/15/25] 🎉🎉🎉 We have one paper accepted by the [ACL](https://github.com/wangkevin02/USP).
 
-[01/23/25] 🎉🎉🎉 We have one paper accepted by the NAACL.
+[01/23/25] 🎉🎉🎉 We have one paper accepted by the [NAACL](https://arxiv.org/pdf/2406.14115).
 
 [01/20/25] 🎉🎉🎉 We have one paper accepted by the WWW.
 
