@@ -21,7 +21,8 @@ Here are some [personal guidelines](https://blog.csdn.net/qq_35082030/category_1
 
 
 # [🔬 **Research Area**]
-- LLM-Based Dialogue System: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB), [Data Section](https://arxiv.org/pdf/2406.14115), [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [GPTforDDA](https://github.com/yxfanSuda/GPTforDDA), [CATCH](https://github.com/SUAT-AIRI/CATCH)
+- LLM-Based Dialogue System: [Phoenix](https://github.com/FreedomIntelligence/LLMZoo), [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT), [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II), [SDAK](https://github.com/FreedomIntelligence/SDAK), [CMB](https://github.com/FreedomIntelligence/CMB), [Data Section](https://arxiv.org/pdf/2406.14115), [PIR](https://github.com/SUAT-AIRI/Proactive-Interactive-R1)
+- Discourse Analysis: [UMLF](https://github.com/Jeff-Sue/URT), [CPTS](https://github.com/fjiangAI/CPTS), [GPTforDDA](https://github.com/yxfanSuda/GPTforDDA), [CATCH](https://github.com/SUAT-AIRI/CATCH)
 - Persona and Alignment: [Data Section](https://arxiv.org/pdf/2406.14115), [TS-align](https://arxiv.org/pdf/2405.20215), [FLR](https://arxiv.org/pdf/2409.13948), [PlatoLM](https://github.com/FreedomIntelligence/ReaLM), [USP](https://github.com/wangkevin02/USP)
 - AI4Science: [SC-Arena](https://github.com/SUAT-AIRI/SC-Arena), [GATHER](https://github.com/SUAT-AIRI/GATHER), [MMAPIS](https://github.com/fjiangAI/MMAPIS), [HTTP](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT), [HNDC](https://arxiv.org/pdf/2410.14259), [GrammarGPT](https://github.com/FreedomIntelligence/GrammarGPT).
 
