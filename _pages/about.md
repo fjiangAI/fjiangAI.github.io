@@ -29,6 +29,7 @@ Here are some [personal guidelines](https://blog.csdn.net/qq_35082030/category_1
 
 
 # [✨ **Latest News**]
+[07/01/26] 🎉🎉🎉 We achieve the Top1 of NLPCC 2026 Share Task 10 Track 1: Claim-level faithfulness to experimental results.
 
 [04/07/26] 🎉🎉🎉 We have three papers accepted by the ACL.
 
